@@ -1,0 +1,12 @@
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\who wants to be a  millionaire.csproj.ResolveComReference.cache
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\bin\Release\who wants to be a  millionaire.exe
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\bin\Release\who wants to be a  millionaire.pdb
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\bin\Release\Interop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\who_wants_to_be_a__millionaire.Form1.resources
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\who_wants_to_be_a__millionaire.Properties.Resources.resources
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\who wants to be a  millionaire.csproj.GenerateResource.Cache
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\who wants to be a  millionaire.exe
+C:\Users\Black2\Desktop\projects visual studio csharp\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Release\who wants to be a  millionaire.pdb
