@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\new sharp codes\project66 word game\project66 word game\bin\Debug\project66 word game.exe.config
+C:\Users\Black2\Desktop\new sharp codes\project66 word game\project66 word game\bin\Debug\project66 word game.exe
+C:\Users\Black2\Desktop\new sharp codes\project66 word game\project66 word game\bin\Debug\project66 word game.pdb
+C:\Users\Black2\Desktop\new sharp codes\project66 word game\project66 word game\obj\Debug\project66 word game.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\new sharp codes\project66 word game\project66 word game\obj\Debug\project66 word game.exe
+C:\Users\Black2\Desktop\new sharp codes\project66 word game\project66 word game\obj\Debug\project66 word game.pdb

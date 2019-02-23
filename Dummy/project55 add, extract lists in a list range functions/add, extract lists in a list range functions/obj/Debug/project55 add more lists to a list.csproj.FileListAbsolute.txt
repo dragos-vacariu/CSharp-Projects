@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project55 add more lists to a list\project55 add more lists to a list\obj\Debug\project55 add more lists to a list.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project55 add more lists to a list\project55 add more lists to a list\bin\Debug\project55 add more lists to a list.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project55 add more lists to a list\project55 add more lists to a list\bin\Debug\project55 add more lists to a list.exe
+C:\Users\Black2\Desktop\sharp develop projects\project55 add more lists to a list\project55 add more lists to a list\bin\Debug\project55 add more lists to a list.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project55 add more lists to a list\project55 add more lists to a list\obj\Debug\project55 add more lists to a list.exe
+C:\Users\Black2\Desktop\sharp develop projects\project55 add more lists to a list\project55 add more lists to a list\obj\Debug\project55 add more lists to a list.pdb

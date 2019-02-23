@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project45 generics\project45 generics\bin\Debug\project45 generics.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project45 generics\project45 generics\bin\Debug\project45 generics.exe
+C:\Users\Black2\Desktop\sharp develop projects\project45 generics\project45 generics\bin\Debug\project45 generics.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project45 generics\project45 generics\obj\Debug\project45 generics.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project45 generics\project45 generics\obj\Debug\project45 generics.exe
+C:\Users\Black2\Desktop\sharp develop projects\project45 generics\project45 generics\obj\Debug\project45 generics.pdb

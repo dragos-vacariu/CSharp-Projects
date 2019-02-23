@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project30 explicit vs implicit implementation\project30 explicit vs implicit implementation\obj\Debug\project30 explicit vs implicit implementation.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project30 explicit vs implicit implementation\project30 explicit vs implicit implementation\bin\Debug\project30 explicit vs implicit implementation.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project30 explicit vs implicit implementation\project30 explicit vs implicit implementation\bin\Debug\project30 explicit vs implicit implementation.exe
+C:\Users\Black2\Desktop\sharp develop projects\project30 explicit vs implicit implementation\project30 explicit vs implicit implementation\bin\Debug\project30 explicit vs implicit implementation.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project30 explicit vs implicit implementation\project30 explicit vs implicit implementation\obj\Debug\project30 explicit vs implicit implementation.exe
+C:\Users\Black2\Desktop\sharp develop projects\project30 explicit vs implicit implementation\project30 explicit vs implicit implementation\obj\Debug\project30 explicit vs implicit implementation.pdb

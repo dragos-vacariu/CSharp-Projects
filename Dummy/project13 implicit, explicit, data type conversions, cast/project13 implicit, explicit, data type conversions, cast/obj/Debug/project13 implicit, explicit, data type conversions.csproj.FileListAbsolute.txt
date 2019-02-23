@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project13 implicit, explicit, data type conversions\project13 implicit, explicit, data type conversions\bin\Debug\project13 implicit, explicit, data type conversions.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project13 implicit, explicit, data type conversions\project13 implicit, explicit, data type conversions\bin\Debug\project13 implicit, explicit, data type conversions.exe
+C:\Users\Black2\Desktop\sharp develop projects\project13 implicit, explicit, data type conversions\project13 implicit, explicit, data type conversions\bin\Debug\project13 implicit, explicit, data type conversions.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project13 implicit, explicit, data type conversions\project13 implicit, explicit, data type conversions\obj\Debug\project13 implicit, explicit, data type conversions.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project13 implicit, explicit, data type conversions\project13 implicit, explicit, data type conversions\obj\Debug\project13 implicit, explicit, data type conversions.exe
+C:\Users\Black2\Desktop\sharp develop projects\project13 implicit, explicit, data type conversions\project13 implicit, explicit, data type conversions\obj\Debug\project13 implicit, explicit, data type conversions.pdb

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project41 internal and protected internal modifiers", "project41 internal and protected internal access modifiers\project41 internal and protected internal modifiers.csproj", "{6182AE3F-4837-4385-9F13-6902D17C987C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Other Assembly", "Other Assembly\Other Assembly.csproj", "{8C5F6715-4D40-40EC-B8A1-D31D8D46A7B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6182AE3F-4837-4385-9F13-6902D17C987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6182AE3F-4837-4385-9F13-6902D17C987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6182AE3F-4837-4385-9F13-6902D17C987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6182AE3F-4837-4385-9F13-6902D17C987C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5F6715-4D40-40EC-B8A1-D31D8D46A7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5F6715-4D40-40EC-B8A1-D31D8D46A7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5F6715-4D40-40EC-B8A1-D31D8D46A7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5F6715-4D40-40EC-B8A1-D31D8D46A7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project51 dictionary\project51 dictionary\bin\Debug\project51 dictionary.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project51 dictionary\project51 dictionary\bin\Debug\project51 dictionary.exe
+C:\Users\Black2\Desktop\sharp develop projects\project51 dictionary\project51 dictionary\bin\Debug\project51 dictionary.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project51 dictionary\project51 dictionary\obj\Debug\project51 dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project51 dictionary\project51 dictionary\obj\Debug\project51 dictionary.exe
+C:\Users\Black2\Desktop\sharp develop projects\project51 dictionary\project51 dictionary\obj\Debug\project51 dictionary.pdb

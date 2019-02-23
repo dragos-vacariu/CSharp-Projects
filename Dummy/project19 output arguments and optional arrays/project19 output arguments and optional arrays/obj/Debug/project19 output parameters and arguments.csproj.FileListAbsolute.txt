@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project19 output parameters and arguments\project19 output parameters and arguments\obj\Debug\project19 output parameters and arguments.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project19 output parameters and arguments\project19 output parameters and arguments\bin\Debug\project19 output parameters and arguments.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project19 output parameters and arguments\project19 output parameters and arguments\bin\Debug\project19 output parameters and arguments.exe
+C:\Users\Black2\Desktop\sharp develop projects\project19 output parameters and arguments\project19 output parameters and arguments\bin\Debug\project19 output parameters and arguments.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project19 output parameters and arguments\project19 output parameters and arguments\obj\Debug\project19 output parameters and arguments.exe
+C:\Users\Black2\Desktop\sharp develop projects\project19 output parameters and arguments\project19 output parameters and arguments\obj\Debug\project19 output parameters and arguments.pdb

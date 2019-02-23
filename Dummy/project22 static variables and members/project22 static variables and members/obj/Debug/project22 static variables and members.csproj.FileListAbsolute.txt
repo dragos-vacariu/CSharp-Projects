@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project22 static variables and members\project22 static variables and members\obj\Debug\project22 static variables and members.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project22 static variables and members\project22 static variables and members\bin\Debug\project22 static variables and members.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project22 static variables and members\project22 static variables and members\bin\Debug\project22 static variables and members.exe
+C:\Users\Black2\Desktop\sharp develop projects\project22 static variables and members\project22 static variables and members\bin\Debug\project22 static variables and members.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project22 static variables and members\project22 static variables and members\obj\Debug\project22 static variables and members.exe
+C:\Users\Black2\Desktop\sharp develop projects\project22 static variables and members\project22 static variables and members\obj\Debug\project22 static variables and members.pdb

@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project46 working with string builder\project46 working with string builder\bin\Debug\project46 working with string builder.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project46 working with string builder\project46 working with string builder\bin\Debug\project46 working with string builder.exe
+C:\Users\Black2\Desktop\sharp develop projects\project46 working with string builder\project46 working with string builder\bin\Debug\project46 working with string builder.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project46 working with string builder\project46 working with string builder\obj\Debug\project46 working with string builder.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project46 working with string builder\project46 working with string builder\obj\Debug\project46 working with string builder.exe
+C:\Users\Black2\Desktop\sharp develop projects\project46 working with string builder\project46 working with string builder\obj\Debug\project46 working with string builder.pdb

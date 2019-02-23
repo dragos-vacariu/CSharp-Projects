@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project32 abstract classes\project32 abstract classes\obj\Debug\project32 abstract classes.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project32 abstract classes\project32 abstract classes\bin\Debug\project32 abstract classes.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project32 abstract classes\project32 abstract classes\bin\Debug\project32 abstract classes.exe
+C:\Users\Black2\Desktop\sharp develop projects\project32 abstract classes\project32 abstract classes\bin\Debug\project32 abstract classes.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project32 abstract classes\project32 abstract classes\obj\Debug\project32 abstract classes.exe
+C:\Users\Black2\Desktop\sharp develop projects\project32 abstract classes\project32 abstract classes\obj\Debug\project32 abstract classes.pdb

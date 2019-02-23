@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project8 divisible numbers\project8 divisible numbers\bin\Debug\project8 divisible numbers.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project8 divisible numbers\project8 divisible numbers\bin\Debug\project8 divisible numbers.exe
+C:\Users\Black2\Desktop\sharp develop projects\project8 divisible numbers\project8 divisible numbers\bin\Debug\project8 divisible numbers.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project8 divisible numbers\project8 divisible numbers\obj\Debug\project8 divisible numbers.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project8 divisible numbers\project8 divisible numbers\obj\Debug\project8 divisible numbers.exe
+C:\Users\Black2\Desktop\sharp develop projects\project8 divisible numbers\project8 divisible numbers\obj\Debug\project8 divisible numbers.pdb

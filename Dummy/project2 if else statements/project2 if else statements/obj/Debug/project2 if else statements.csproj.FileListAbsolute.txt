@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project2 if else statements\project2 if else statements\bin\Debug\project2 if else statemets.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project2 if else statements\project2 if else statements\bin\Debug\project2 if else statemets.exe
+C:\Users\Black2\Desktop\sharp develop projects\project2 if else statements\project2 if else statements\bin\Debug\project2 if else statemets.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project2 if else statements\project2 if else statements\obj\Debug\project2 if else statements.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project2 if else statements\project2 if else statements\obj\Debug\project2 if else statemets.exe
+C:\Users\Black2\Desktop\sharp develop projects\project2 if else statements\project2 if else statements\obj\Debug\project2 if else statemets.pdb

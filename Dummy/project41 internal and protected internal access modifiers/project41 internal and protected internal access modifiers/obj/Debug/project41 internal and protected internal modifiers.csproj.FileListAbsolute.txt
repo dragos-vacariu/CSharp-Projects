@@ -1,0 +1,7 @@
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\bin\Debug\project41 internal and protected internal modifiers.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\bin\Debug\project41 internal and protected internal modifiers.exe
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\bin\Debug\project41 internal and protected internal modifiers.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\obj\Debug\project41 internal and protected internal modifiers.exe
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\obj\Debug\project41 internal and protected internal modifiers.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\bin\Debug\Other Assembly.dll
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\project41 internal and protected internal access modifiers\bin\Debug\Other Assembly.pdb

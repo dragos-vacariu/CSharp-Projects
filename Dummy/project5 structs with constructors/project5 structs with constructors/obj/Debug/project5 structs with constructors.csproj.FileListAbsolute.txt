@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project5 structs with constructors\project5 structs with constructors\obj\Debug\project5 structs with constructors.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project5 structs with constructors\project5 structs with constructors\bin\Debug\project5 structs with constructors.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project5 structs with constructors\project5 structs with constructors\bin\Debug\project5 structs with constructors.exe
+C:\Users\Black2\Desktop\sharp develop projects\project5 structs with constructors\project5 structs with constructors\bin\Debug\project5 structs with constructors.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project5 structs with constructors\project5 structs with constructors\obj\Debug\project5 structs with constructors.exe
+C:\Users\Black2\Desktop\sharp develop projects\project5 structs with constructors\project5 structs with constructors\obj\Debug\project5 structs with constructors.pdb

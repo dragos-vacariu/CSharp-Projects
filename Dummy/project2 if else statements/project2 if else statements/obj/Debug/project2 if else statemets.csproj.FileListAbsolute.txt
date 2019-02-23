@@ -1,0 +1,6 @@
+C:\Users\Black2\Documents\SharpDevelop Projects\project2 if else statemets\project2 if else statemets\obj\Debug\project2 if else statemets.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Documents\SharpDevelop Projects\project2 if else statemets\project2 if else statemets\bin\Debug\project2 if else statemets.exe.config
+C:\Users\Black2\Documents\SharpDevelop Projects\project2 if else statemets\project2 if else statemets\bin\Debug\project2 if else statemets.exe
+C:\Users\Black2\Documents\SharpDevelop Projects\project2 if else statemets\project2 if else statemets\bin\Debug\project2 if else statemets.pdb
+C:\Users\Black2\Documents\SharpDevelop Projects\project2 if else statemets\project2 if else statemets\obj\Debug\project2 if else statemets.exe
+C:\Users\Black2\Documents\SharpDevelop Projects\project2 if else statemets\project2 if else statemets\obj\Debug\project2 if else statemets.pdb

@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project33 multiple class inheritance using interfaces\project33 multiple class inheritance using interfaces\obj\Debug\project33 multiple class inheritance using interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project33 multiple class inheritance using interfaces\project33 multiple class inheritance using interfaces\bin\Debug\project33 multiple class inheritance using interfaces.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project33 multiple class inheritance using interfaces\project33 multiple class inheritance using interfaces\bin\Debug\project33 multiple class inheritance using interfaces.exe
+C:\Users\Black2\Desktop\sharp develop projects\project33 multiple class inheritance using interfaces\project33 multiple class inheritance using interfaces\bin\Debug\project33 multiple class inheritance using interfaces.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project33 multiple class inheritance using interfaces\project33 multiple class inheritance using interfaces\obj\Debug\project33 multiple class inheritance using interfaces.exe
+C:\Users\Black2\Desktop\sharp develop projects\project33 multiple class inheritance using interfaces\project33 multiple class inheritance using interfaces\obj\Debug\project33 multiple class inheritance using interfaces.pdb

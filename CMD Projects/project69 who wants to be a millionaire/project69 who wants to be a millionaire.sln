@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project69 who wants to be a millionaire", "project69 who wants to be a millionaire\project69 who wants to be a millionaire.csproj", "{35B37C5C-CF78-49D6-991E-F39C14CD93C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B37C5C-CF78-49D6-991E-F39C14CD93C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B37C5C-CF78-49D6-991E-F39C14CD93C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B37C5C-CF78-49D6-991E-F39C14CD93C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B37C5C-CF78-49D6-991E-F39C14CD93C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

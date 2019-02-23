@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project34 delegates\project34 delegates\obj\Debug\project34 delegates.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project34 delegates\project34 delegates\bin\Debug\project34 delegates.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project34 delegates\project34 delegates\bin\Debug\project34 delegates.exe
+C:\Users\Black2\Desktop\sharp develop projects\project34 delegates\project34 delegates\bin\Debug\project34 delegates.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project34 delegates\project34 delegates\obj\Debug\project34 delegates.exe
+C:\Users\Black2\Desktop\sharp develop projects\project34 delegates\project34 delegates\obj\Debug\project34 delegates.pdb

@@ -1,0 +1,5 @@
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\Other Assembly\obj\Debug\Other Assembly.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\Other Assembly\bin\Debug\Other Assembly.dll
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\Other Assembly\bin\Debug\Other Assembly.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\Other Assembly\obj\Debug\Other Assembly.dll
+C:\Users\Black2\Desktop\sharp develop projects\project41 internal and protected internal access modifiers\Other Assembly\obj\Debug\Other Assembly.pdb

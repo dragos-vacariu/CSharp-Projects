@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project59 artifficial intelligence\project59 artifficial intelligence\obj\Debug\project59 artifficial intelligence.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project59 artifficial intelligence\project59 artifficial intelligence\bin\Debug\project59 artifficial intelligence.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project59 artifficial intelligence\project59 artifficial intelligence\bin\Debug\project59 artifficial intelligence.exe
+C:\Users\Black2\Desktop\sharp develop projects\project59 artifficial intelligence\project59 artifficial intelligence\bin\Debug\project59 artifficial intelligence.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project59 artifficial intelligence\project59 artifficial intelligence\obj\Debug\project59 artifficial intelligence.exe
+C:\Users\Black2\Desktop\sharp develop projects\project59 artifficial intelligence\project59 artifficial intelligence\obj\Debug\project59 artifficial intelligence.pdb

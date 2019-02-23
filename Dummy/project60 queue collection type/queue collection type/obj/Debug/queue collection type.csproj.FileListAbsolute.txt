@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\new sharp codes\queue collection type\queue collection type\obj\Debug\queue collection type.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\new sharp codes\queue collection type\queue collection type\bin\Debug\queue collection type.exe.config
+C:\Users\Black2\Desktop\new sharp codes\queue collection type\queue collection type\bin\Debug\queue collection type.exe
+C:\Users\Black2\Desktop\new sharp codes\queue collection type\queue collection type\bin\Debug\queue collection type.pdb
+C:\Users\Black2\Desktop\new sharp codes\queue collection type\queue collection type\obj\Debug\queue collection type.exe
+C:\Users\Black2\Desktop\new sharp codes\queue collection type\queue collection type\obj\Debug\queue collection type.pdb

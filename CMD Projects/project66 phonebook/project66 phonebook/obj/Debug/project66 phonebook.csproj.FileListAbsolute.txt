@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\new sharp codes\project66 phonebook\project66 phonebook\bin\Debug\project66 phonebook.exe.config
+C:\Users\Black2\Desktop\new sharp codes\project66 phonebook\project66 phonebook\bin\Debug\project66 phonebook.exe
+C:\Users\Black2\Desktop\new sharp codes\project66 phonebook\project66 phonebook\bin\Debug\project66 phonebook.pdb
+C:\Users\Black2\Desktop\new sharp codes\project66 phonebook\project66 phonebook\obj\Debug\project66 phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\new sharp codes\project66 phonebook\project66 phonebook\obj\Debug\project66 phonebook.exe
+C:\Users\Black2\Desktop\new sharp codes\project66 phonebook\project66 phonebook\obj\Debug\project66 phonebook.pdb
