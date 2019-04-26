@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project24 class methods hiding\project24 class methods hiding\obj\Debug\project24 class methods hiding.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project24 class methods hiding\project24 class methods hiding\bin\Debug\project24 class methods hiding.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project24 class methods hiding\project24 class methods hiding\bin\Debug\project24 class methods hiding.exe
-C:\Users\Black2\Desktop\sharp develop projects\project24 class methods hiding\project24 class methods hiding\bin\Debug\project24 class methods hiding.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project24 class methods hiding\project24 class methods hiding\obj\Debug\project24 class methods hiding.exe
-C:\Users\Black2\Desktop\sharp develop projects\project24 class methods hiding\project24 class methods hiding\obj\Debug\project24 class methods hiding.pdb

@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project10 write to console, escape sequence\project10 write to console, escape sequence\obj\Debug\project10 write to console, escape sequence.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project10 write to console, escape sequence\project10 write to console, escape sequence\bin\Debug\project10 write to console, escape sequence.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project10 write to console, escape sequence\project10 write to console, escape sequence\bin\Debug\project10 write to console, escape sequence.exe
-C:\Users\Black2\Desktop\sharp develop projects\project10 write to console, escape sequence\project10 write to console, escape sequence\bin\Debug\project10 write to console, escape sequence.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project10 write to console, escape sequence\project10 write to console, escape sequence\obj\Debug\project10 write to console, escape sequence.exe
-C:\Users\Black2\Desktop\sharp develop projects\project10 write to console, escape sequence\project10 write to console, escape sequence\obj\Debug\project10 write to console, escape sequence.pdb

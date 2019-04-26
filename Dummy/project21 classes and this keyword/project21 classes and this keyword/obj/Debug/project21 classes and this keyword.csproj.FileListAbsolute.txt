@@ -1,9 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project21 classes and this keyword\project21 classes and this keyword\obj\Debug\project21 classes and this keyword.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project21 classes and this keyword\project21 classes and this keyword\bin\Debug\project21 classes and this keyword.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project21 classes and this keyword\project21 classes and this keyword\bin\Debug\project21 classes and this keyword.exe
-C:\Users\Black2\Desktop\sharp develop projects\project21 classes and this keyword\project21 classes and this keyword\bin\Debug\project21 classes and this keyword.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project21 classes and this keyword\project21 classes and this keyword\obj\Debug\project21 classes and this keyword.exe
-C:\Users\Black2\Desktop\sharp develop projects\project21 classes and this keyword\project21 classes and this keyword\obj\Debug\project21 classes and this keyword.pdb
-D:\codes and programming\sharp develop projects c#\project21 classes and this keyword\project21 classes and this keyword\bin\Debug\project21 classes and this keyword.exe.config
-D:\codes and programming\sharp develop projects c#\project21 classes and this keyword\project21 classes and this keyword\obj\Debug\project21 classes and this keyword.exe
-D:\codes and programming\sharp develop projects c#\project21 classes and this keyword\project21 classes and this keyword\obj\Debug\project21 classes and this keyword.pdb

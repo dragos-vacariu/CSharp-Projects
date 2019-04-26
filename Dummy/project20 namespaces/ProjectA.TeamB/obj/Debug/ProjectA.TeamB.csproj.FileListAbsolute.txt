@@ -1,5 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.dll
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\ProjectA.TeamB\bin\Debug\ProjectA.TeamB.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.dll
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\ProjectA.TeamB\obj\Debug\ProjectA.TeamB.pdb

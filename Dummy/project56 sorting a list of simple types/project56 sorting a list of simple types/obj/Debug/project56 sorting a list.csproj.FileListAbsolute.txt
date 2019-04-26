@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project56 sorting a list\project56 sorting a list\bin\Debug\project56 sorting a list.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project56 sorting a list\project56 sorting a list\bin\Debug\project56 sorting a list.exe
-C:\Users\Black2\Desktop\sharp develop projects\project56 sorting a list\project56 sorting a list\bin\Debug\project56 sorting a list.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project56 sorting a list\project56 sorting a list\obj\Debug\project56 sorting a list.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project56 sorting a list\project56 sorting a list\obj\Debug\project56 sorting a list.exe
-C:\Users\Black2\Desktop\sharp develop projects\project56 sorting a list\project56 sorting a list\obj\Debug\project56 sorting a list.pdb

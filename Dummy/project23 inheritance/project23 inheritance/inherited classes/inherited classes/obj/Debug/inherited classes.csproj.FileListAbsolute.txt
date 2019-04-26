@@ -1,5 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project23 inheritance\project23 inheritance\inherited classes\inherited classes\obj\Debug\inherited classes.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project23 inheritance\project23 inheritance\inherited classes\inherited classes\bin\Debug\inherited classes.dll
-C:\Users\Black2\Desktop\sharp develop projects\project23 inheritance\project23 inheritance\inherited classes\inherited classes\bin\Debug\inherited classes.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project23 inheritance\project23 inheritance\inherited classes\inherited classes\obj\Debug\inherited classes.dll
-C:\Users\Black2\Desktop\sharp develop projects\project23 inheritance\project23 inheritance\inherited classes\inherited classes\obj\Debug\inherited classes.pdb

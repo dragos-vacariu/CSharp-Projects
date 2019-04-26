@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project18 passing arguments by value or reference\project18 passing arguments by value or reference\bin\Debug\project18 passing arguments by value or reference.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project18 passing arguments by value or reference\project18 passing arguments by value or reference\bin\Debug\project18 passing arguments by value or reference.exe
-C:\Users\Black2\Desktop\sharp develop projects\project18 passing arguments by value or reference\project18 passing arguments by value or reference\bin\Debug\project18 passing arguments by value or reference.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project18 passing arguments by value or reference\project18 passing arguments by value or reference\obj\Debug\project18 passing arguments by value or reference.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project18 passing arguments by value or reference\project18 passing arguments by value or reference\obj\Debug\project18 passing arguments by value or reference.exe
-C:\Users\Black2\Desktop\sharp develop projects\project18 passing arguments by value or reference\project18 passing arguments by value or reference\obj\Debug\project18 passing arguments by value or reference.pdb

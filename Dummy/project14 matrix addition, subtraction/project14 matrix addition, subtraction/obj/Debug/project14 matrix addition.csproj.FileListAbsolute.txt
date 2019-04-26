@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project14 matrix addition\project14 matrix addition\obj\Debug\project14 matrix addition.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project14 matrix addition\project14 matrix addition\bin\Debug\project14 matrix addition.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project14 matrix addition\project14 matrix addition\bin\Debug\project14 matrix addition.exe
-C:\Users\Black2\Desktop\sharp develop projects\project14 matrix addition\project14 matrix addition\bin\Debug\project14 matrix addition.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project14 matrix addition\project14 matrix addition\obj\Debug\project14 matrix addition.exe
-C:\Users\Black2\Desktop\sharp develop projects\project14 matrix addition\project14 matrix addition\obj\Debug\project14 matrix addition.pdb

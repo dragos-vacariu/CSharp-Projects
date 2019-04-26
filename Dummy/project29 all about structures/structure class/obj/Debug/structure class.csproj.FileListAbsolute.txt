@@ -1,5 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\structure class\obj\Debug\structure class.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\structure class\bin\Debug\structure class.dll
-C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\structure class\bin\Debug\structure class.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\structure class\obj\Debug\structure class.dll
-C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\structure class\obj\Debug\structure class.pdb

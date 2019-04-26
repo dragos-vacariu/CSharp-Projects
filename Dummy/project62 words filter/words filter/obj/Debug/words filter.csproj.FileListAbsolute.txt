@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\new sharp codes\words filter\words filter\words filter\bin\Debug\words filter.exe.config
-C:\Users\Black2\Desktop\new sharp codes\words filter\words filter\words filter\bin\Debug\words filter.exe
-C:\Users\Black2\Desktop\new sharp codes\words filter\words filter\words filter\bin\Debug\words filter.pdb
-C:\Users\Black2\Desktop\new sharp codes\words filter\words filter\words filter\obj\Debug\words filter.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\new sharp codes\words filter\words filter\words filter\obj\Debug\words filter.exe
-C:\Users\Black2\Desktop\new sharp codes\words filter\words filter\words filter\obj\Debug\words filter.pdb

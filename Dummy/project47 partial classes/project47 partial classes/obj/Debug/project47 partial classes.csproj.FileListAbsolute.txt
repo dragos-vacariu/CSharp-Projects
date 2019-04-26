@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project47 partial classes\project47 partial classes\obj\Debug\project47 partial classes.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project47 partial classes\project47 partial classes\bin\Debug\project47 partial classes.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project47 partial classes\project47 partial classes\bin\Debug\project47 partial classes.exe
-C:\Users\Black2\Desktop\sharp develop projects\project47 partial classes\project47 partial classes\bin\Debug\project47 partial classes.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project47 partial classes\project47 partial classes\obj\Debug\project47 partial classes.exe
-C:\Users\Black2\Desktop\sharp develop projects\project47 partial classes\project47 partial classes\obj\Debug\project47 partial classes.pdb

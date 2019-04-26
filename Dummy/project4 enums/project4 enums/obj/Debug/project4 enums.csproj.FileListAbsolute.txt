@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project4 enums\project4 enums\obj\Debug\project4 enums.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project4 enums\project4 enums\bin\Debug\project4 enums.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project4 enums\project4 enums\bin\Debug\project4 enums.exe
-C:\Users\Black2\Desktop\sharp develop projects\project4 enums\project4 enums\bin\Debug\project4 enums.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project4 enums\project4 enums\obj\Debug\project4 enums.exe
-C:\Users\Black2\Desktop\sharp develop projects\project4 enums\project4 enums\obj\Debug\project4 enums.pdb

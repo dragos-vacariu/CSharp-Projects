@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project49 indexers\project49 indexers\obj\Debug\project49 indexers.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project49 indexers\project49 indexers\bin\Debug\project49 indexers.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project49 indexers\project49 indexers\bin\Debug\project49 indexers.exe
-C:\Users\Black2\Desktop\sharp develop projects\project49 indexers\project49 indexers\bin\Debug\project49 indexers.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project49 indexers\project49 indexers\obj\Debug\project49 indexers.exe
-C:\Users\Black2\Desktop\sharp develop projects\project49 indexers\project49 indexers\obj\Debug\project49 indexers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project7 lists\project7 lists\obj\Debug\project7 lists.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project7 lists\project7 lists\bin\Debug\project7 lists.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project7 lists\project7 lists\bin\Debug\project7 lists.exe
-C:\Users\Black2\Desktop\sharp develop projects\project7 lists\project7 lists\bin\Debug\project7 lists.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project7 lists\project7 lists\obj\Debug\project7 lists.exe
-C:\Users\Black2\Desktop\sharp develop projects\project7 lists\project7 lists\obj\Debug\project7 lists.pdb

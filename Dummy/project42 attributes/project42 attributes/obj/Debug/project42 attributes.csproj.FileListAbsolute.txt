@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project42 attributes\project42 attributes\bin\Debug\project42 attributes.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project42 attributes\project42 attributes\bin\Debug\project42 attributes.exe
-C:\Users\Black2\Desktop\sharp develop projects\project42 attributes\project42 attributes\bin\Debug\project42 attributes.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project42 attributes\project42 attributes\obj\Debug\project42 attributes.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project42 attributes\project42 attributes\obj\Debug\project42 attributes.exe
-C:\Users\Black2\Desktop\sharp develop projects\project42 attributes\project42 attributes\obj\Debug\project42 attributes.pdb

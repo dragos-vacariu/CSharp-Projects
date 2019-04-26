@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project57 sorting a list of complex types\project57 sorting a list of complex types\bin\Debug\project57 sorting a list of complex types.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project57 sorting a list of complex types\project57 sorting a list of complex types\bin\Debug\project57 sorting a list of complex types.exe
-C:\Users\Black2\Desktop\sharp develop projects\project57 sorting a list of complex types\project57 sorting a list of complex types\bin\Debug\project57 sorting a list of complex types.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project57 sorting a list of complex types\project57 sorting a list of complex types\obj\Debug\project57 sorting a list of complex types.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project57 sorting a list of complex types\project57 sorting a list of complex types\obj\Debug\project57 sorting a list of complex types.exe
-C:\Users\Black2\Desktop\sharp develop projects\project57 sorting a list of complex types\project57 sorting a list of complex types\obj\Debug\project57 sorting a list of complex types.pdb

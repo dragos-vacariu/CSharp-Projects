@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\bin\Debug\project37 files io and handling exceptions.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\bin\Debug\project37 files io and handling exceptions.exe
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\bin\Debug\project37 files io and handling exceptions.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\obj\Debug\project37 files io and handling exceptions.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\obj\Debug\project37 files io and handling exceptions.exe
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\obj\Debug\project37 files io and handling exceptions.pdb

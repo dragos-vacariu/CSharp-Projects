@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project28 encapsulation using c# proprieties\project28 encapsulation using c# proprieties\bin\Debug\project28 encapsulation using c# proprieties.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project28 encapsulation using c# proprieties\project28 encapsulation using c# proprieties\bin\Debug\project28 encapsulation using c# proprieties.exe
-C:\Users\Black2\Desktop\sharp develop projects\project28 encapsulation using c# proprieties\project28 encapsulation using c# proprieties\bin\Debug\project28 encapsulation using c# proprieties.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project28 encapsulation using c# proprieties\project28 encapsulation using c# proprieties\obj\Debug\project28 encapsulation using c# proprieties.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project28 encapsulation using c# proprieties\project28 encapsulation using c# proprieties\obj\Debug\project28 encapsulation using c# proprieties.exe
-C:\Users\Black2\Desktop\sharp develop projects\project28 encapsulation using c# proprieties\project28 encapsulation using c# proprieties\obj\Debug\project28 encapsulation using c# proprieties.pdb

@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project44 late binding\project44 late binding\bin\Debug\project44 late binding.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project44 late binding\project44 late binding\bin\Debug\project44 late binding.exe
-C:\Users\Black2\Desktop\sharp develop projects\project44 late binding\project44 late binding\bin\Debug\project44 late binding.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project44 late binding\project44 late binding\obj\Debug\project44 late binding.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project44 late binding\project44 late binding\obj\Debug\project44 late binding.exe
-C:\Users\Black2\Desktop\sharp develop projects\project44 late binding\project44 late binding\obj\Debug\project44 late binding.pdb

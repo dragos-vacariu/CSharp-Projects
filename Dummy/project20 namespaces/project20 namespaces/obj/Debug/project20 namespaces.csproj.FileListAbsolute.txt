@@ -1,8 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\obj\Debug\project20 namespaces.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\bin\Debug\project20 namespaces.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\bin\Debug\project20 namespaces.exe
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\bin\Debug\project20 namespaces.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\obj\Debug\project20 namespaces.exe
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\obj\Debug\project20 namespaces.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\bin\Debug\ProjectA.TeamB.dll
-C:\Users\Black2\Desktop\sharp develop projects\project20 namespaces\project20 namespaces\bin\Debug\ProjectA.TeamB.pdb

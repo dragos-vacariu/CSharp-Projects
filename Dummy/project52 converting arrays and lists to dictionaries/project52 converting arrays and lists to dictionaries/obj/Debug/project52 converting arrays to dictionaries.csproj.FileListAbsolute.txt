@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project52 converting arrays to dictionaries\project52 converting arrays to dictionaries\bin\Debug\project52 converting arrays to dictionaries.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project52 converting arrays to dictionaries\project52 converting arrays to dictionaries\bin\Debug\project52 converting arrays to dictionaries.exe
-C:\Users\Black2\Desktop\sharp develop projects\project52 converting arrays to dictionaries\project52 converting arrays to dictionaries\bin\Debug\project52 converting arrays to dictionaries.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project52 converting arrays to dictionaries\project52 converting arrays to dictionaries\obj\Debug\project52 converting arrays to dictionaries.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project52 converting arrays to dictionaries\project52 converting arrays to dictionaries\obj\Debug\project52 converting arrays to dictionaries.exe
-C:\Users\Black2\Desktop\sharp develop projects\project52 converting arrays to dictionaries\project52 converting arrays to dictionaries\obj\Debug\project52 converting arrays to dictionaries.pdb

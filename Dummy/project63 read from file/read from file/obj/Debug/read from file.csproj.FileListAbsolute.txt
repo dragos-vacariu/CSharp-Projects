@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\read from file\read from file\obj\Debug\read from file.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\read from file\read from file\bin\Debug\read from file.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\read from file\read from file\bin\Debug\read from file.exe
-C:\Users\Black2\Desktop\sharp develop projects\read from file\read from file\bin\Debug\read from file.pdb
-C:\Users\Black2\Desktop\sharp develop projects\read from file\read from file\obj\Debug\read from file.exe
-C:\Users\Black2\Desktop\sharp develop projects\read from file\read from file\obj\Debug\read from file.pdb

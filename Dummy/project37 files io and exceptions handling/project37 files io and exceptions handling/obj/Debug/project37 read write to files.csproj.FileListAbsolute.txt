@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\bin\Debug\project37 read write to files.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\bin\Debug\project37 read write to files.exe
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\bin\Debug\project37 read write to files.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\obj\Debug\project37 read write to files.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\obj\Debug\project37 read write to files.exe
-C:\Users\Black2\Desktop\sharp develop projects\project37 read write to files\project37 read write to files\obj\Debug\project37 read write to files.pdb

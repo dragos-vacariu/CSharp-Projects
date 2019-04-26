@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project54 array list and list array conversion\project54 array list and list array conversion\bin\Debug\project54 array list and list array conversion.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project54 array list and list array conversion\project54 array list and list array conversion\bin\Debug\project54 array list and list array conversion.exe
-C:\Users\Black2\Desktop\sharp develop projects\project54 array list and list array conversion\project54 array list and list array conversion\bin\Debug\project54 array list and list array conversion.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project54 array list and list array conversion\project54 array list and list array conversion\obj\Debug\project54 array list and list array conversion.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project54 array list and list array conversion\project54 array list and list array conversion\obj\Debug\project54 array list and list array conversion.exe
-C:\Users\Black2\Desktop\sharp develop projects\project54 array list and list array conversion\project54 array list and list array conversion\obj\Debug\project54 array list and list array conversion.pdb

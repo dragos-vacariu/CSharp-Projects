@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project9 phonebook\project9 phonebook\obj\Debug\project9 phonebook.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project9 phonebook\project9 phonebook\bin\Debug\project9 phonebook.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project9 phonebook\project9 phonebook\bin\Debug\project9 phonebook.exe
-C:\Users\Black2\Desktop\sharp develop projects\project9 phonebook\project9 phonebook\bin\Debug\project9 phonebook.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project9 phonebook\project9 phonebook\obj\Debug\project9 phonebook.exe
-C:\Users\Black2\Desktop\sharp develop projects\project9 phonebook\project9 phonebook\obj\Debug\project9 phonebook.pdb

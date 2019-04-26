@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project35 working with delegates\project35 working with delegates\obj\Debug\project35 working with delegates.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project35 working with delegates\project35 working with delegates\bin\Debug\project35 working with delegates.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project35 working with delegates\project35 working with delegates\bin\Debug\project35 working with delegates.exe
-C:\Users\Black2\Desktop\sharp develop projects\project35 working with delegates\project35 working with delegates\bin\Debug\project35 working with delegates.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project35 working with delegates\project35 working with delegates\obj\Debug\project35 working with delegates.exe
-C:\Users\Black2\Desktop\sharp develop projects\project35 working with delegates\project35 working with delegates\obj\Debug\project35 working with delegates.pdb

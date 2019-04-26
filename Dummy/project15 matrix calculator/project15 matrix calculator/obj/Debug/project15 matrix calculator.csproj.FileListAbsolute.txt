@@ -1,6 +1,0 @@
-C:\Users\Black2\Desktop\sharp develop projects\project15 matrix calculator\project15 matrix calculator\bin\Debug\project15 matrix calculator.exe.config
-C:\Users\Black2\Desktop\sharp develop projects\project15 matrix calculator\project15 matrix calculator\bin\Debug\project15 matrix calculator.exe
-C:\Users\Black2\Desktop\sharp develop projects\project15 matrix calculator\project15 matrix calculator\bin\Debug\project15 matrix calculator.pdb
-C:\Users\Black2\Desktop\sharp develop projects\project15 matrix calculator\project15 matrix calculator\obj\Debug\project15 matrix calculator.csprojResolveAssemblyReference.cache
-C:\Users\Black2\Desktop\sharp develop projects\project15 matrix calculator\project15 matrix calculator\obj\Debug\project15 matrix calculator.exe
-C:\Users\Black2\Desktop\sharp develop projects\project15 matrix calculator\project15 matrix calculator\obj\Debug\project15 matrix calculator.pdb
