@@ -1,0 +1,24 @@
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\MP3Player.csproj.ResolveComReference.cache
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\MP3Player.Form1.resources
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\MP3Player.Properties.Resources.resources
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\MP3Player.csproj.GenerateResource.Cache
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\MP3Player.exe
+C:\Users\Black2\Desktop\projects visual studio\MP3Player\MP3Player\obj\x86\Debug\MP3Player.pdb
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\MP3Player.csproj.ResolveComReference.cache
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\MP3Player.exe
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\MP3Player.pdb
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Debug\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Debug\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\MP3Player.Form1.resources
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\MP3Player.Properties.Resources.resources
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Debug\MP3Player.csproj.GenerateResource.Cache

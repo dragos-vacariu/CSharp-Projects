@@ -1,0 +1,12 @@
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\MP3Player.csproj.ResolveComReference.cache
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Release\MP3Player.exe
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Release\MP3Player.pdb
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Release\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\bin\Release\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\MP3Player.Form1.resources
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\MP3Player.Properties.Resources.resources
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\MP3Player.csproj.GenerateResource.Cache
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\MP3Player.exe
+D:\codes and programming\projects visual studio c#\MP3Player\MP3Player\obj\x86\Release\MP3Player.pdb
