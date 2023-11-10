@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "who wants to be a  millionaire", "who wants to be a  millionaire\who wants to be a  millionaire.csproj", "{58113BA3-7C00-40CC-9CA2-9B81A44E38B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWBM Quizz Game", "WWBM Quizz Game\WWBM Quizz Game.csproj", "{58113BA3-7C00-40CC-9CA2-9B81A44E38B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

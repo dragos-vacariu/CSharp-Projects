@@ -118,16 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="label16.Text" xml:space="preserve">
-    <value>Music: 
-Menu Music -&gt; Produced in FL STUDIO by me
-GamePlay Music -&gt; Produced by Reloaded
+    <value>Music:
+Menu Music -&gt; Produced using FL STUDIO.
+Gameplay Music -&gt; Produced by Reloaded.
 Images:
-Downloaded from Google Images and Edited in Photoscape
-Software Produced in Microsoft Visual Studio 2010
-Some Questions and Answers have taken from QuizWise.com
-My Email: blacky_d2@mail.com
-Website: http://deady.dk-one.com
-
-Thank you!</value>
+Downloaded from Google Images and Edited in Photoscape.
+Software developed using Microsoft Visual Studio 2010.
+Some Questions and Answers were taken from QuizWise.com
+Author: Dragos Vacariu
+Email: dragos.vacariu@mail.com
+Year: 2016
+Revised: 2023</value>
   </data>
 </root>

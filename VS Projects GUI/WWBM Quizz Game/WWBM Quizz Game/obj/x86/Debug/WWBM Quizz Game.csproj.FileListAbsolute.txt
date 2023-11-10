@@ -1,0 +1,24 @@
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\bin\Debug\who wants to be a  millionaire.exe
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\bin\Debug\who wants to be a  millionaire.pdb
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\bin\Debug\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\bin\Debug\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\WWBM Quizz Game.csproj.ResolveComReference.cache
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\who_wants_to_be_a__millionaire.Form1.resources
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\who_wants_to_be_a__millionaire.Properties.Resources.resources
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\WWBM Quizz Game.csproj.GenerateResource.Cache
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\who wants to be a  millionaire.exe
+D:\codes and programming\projects visual studio c#\who wants to be a  millionaire\who wants to be a  millionaire\obj\x86\Debug\who wants to be a  millionaire.pdb
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\WWBM Quizz Game.csproj.ResolveComReference.cache
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\who wants to be a  millionaire.exe
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\who wants to be a  millionaire.pdb
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\bin\Debug\who wants to be a  millionaire.exe
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\bin\Debug\who wants to be a  millionaire.pdb
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\bin\Debug\Interop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\bin\Debug\AxInterop.WMPLib.dll
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\who_wants_to_be_a__millionaire.Form1.resources
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\who_wants_to_be_a__millionaire.Properties.Resources.resources
+D:\codes and programming\projects visual studio c#\WWBM Quizz Game\WWBM Quizz Game\obj\x86\Debug\WWBM Quizz Game.csproj.GenerateResource.Cache
