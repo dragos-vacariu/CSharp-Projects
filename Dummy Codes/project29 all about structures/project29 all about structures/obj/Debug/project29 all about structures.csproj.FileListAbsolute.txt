@@ -1,0 +1,8 @@
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\obj\Debug\project29 all about structures.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\bin\Debug\project29 all about structures.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\bin\Debug\project29 all about structures.exe
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\bin\Debug\project29 all about structures.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\bin\Debug\structure class.dll
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\bin\Debug\structure class.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\obj\Debug\project29 all about structures.exe
+C:\Users\Black2\Desktop\sharp develop projects\project29 all about structures\project29 all about structures\obj\Debug\project29 all about structures.pdb

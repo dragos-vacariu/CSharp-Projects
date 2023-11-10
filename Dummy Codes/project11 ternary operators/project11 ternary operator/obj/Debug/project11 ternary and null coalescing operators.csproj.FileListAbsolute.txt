@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project11 ternary and null coalescing operators\project11 ternary and null coalescing operators\bin\Debug\project11 ternary and null coalescing operators.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project11 ternary and null coalescing operators\project11 ternary and null coalescing operators\bin\Debug\project11 ternary and null coalescing operators.exe
+C:\Users\Black2\Desktop\sharp develop projects\project11 ternary and null coalescing operators\project11 ternary and null coalescing operators\bin\Debug\project11 ternary and null coalescing operators.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project11 ternary and null coalescing operators\project11 ternary and null coalescing operators\obj\Debug\project11 ternary and null coalescing operators.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project11 ternary and null coalescing operators\project11 ternary and null coalescing operators\obj\Debug\project11 ternary and null coalescing operators.exe
+C:\Users\Black2\Desktop\sharp develop projects\project11 ternary and null coalescing operators\project11 ternary and null coalescing operators\obj\Debug\project11 ternary and null coalescing operators.pdb

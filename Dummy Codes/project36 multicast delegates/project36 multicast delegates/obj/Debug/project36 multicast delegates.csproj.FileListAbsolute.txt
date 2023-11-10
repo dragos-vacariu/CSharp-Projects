@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project36 multicast delegates\project36 multicast delegates\bin\Debug\project36 multicast delegates.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project36 multicast delegates\project36 multicast delegates\bin\Debug\project36 multicast delegates.exe
+C:\Users\Black2\Desktop\sharp develop projects\project36 multicast delegates\project36 multicast delegates\bin\Debug\project36 multicast delegates.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project36 multicast delegates\project36 multicast delegates\obj\Debug\project36 multicast delegates.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project36 multicast delegates\project36 multicast delegates\obj\Debug\project36 multicast delegates.exe
+C:\Users\Black2\Desktop\sharp develop projects\project36 multicast delegates\project36 multicast delegates\obj\Debug\project36 multicast delegates.pdb

@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project38 inner exceptions\project38 inner exceptions\bin\Debug\project38 inner exceptions.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project38 inner exceptions\project38 inner exceptions\bin\Debug\project38 inner exceptions.exe
+C:\Users\Black2\Desktop\sharp develop projects\project38 inner exceptions\project38 inner exceptions\bin\Debug\project38 inner exceptions.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project38 inner exceptions\project38 inner exceptions\obj\Debug\project38 inner exceptions.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project38 inner exceptions\project38 inner exceptions\obj\Debug\project38 inner exceptions.exe
+C:\Users\Black2\Desktop\sharp develop projects\project38 inner exceptions\project38 inner exceptions\obj\Debug\project38 inner exceptions.pdb

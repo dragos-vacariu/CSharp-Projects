@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\new sharp codes\project61 stack collection type\project61 stack collection type\obj\Debug\project61 stack collection type.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\new sharp codes\project61 stack collection type\project61 stack collection type\bin\Debug\project61 stack collection type.exe.config
+C:\Users\Black2\Desktop\new sharp codes\project61 stack collection type\project61 stack collection type\bin\Debug\project61 stack collection type.exe
+C:\Users\Black2\Desktop\new sharp codes\project61 stack collection type\project61 stack collection type\bin\Debug\project61 stack collection type.pdb
+C:\Users\Black2\Desktop\new sharp codes\project61 stack collection type\project61 stack collection type\obj\Debug\project61 stack collection type.exe
+C:\Users\Black2\Desktop\new sharp codes\project61 stack collection type\project61 stack collection type\obj\Debug\project61 stack collection type.pdb

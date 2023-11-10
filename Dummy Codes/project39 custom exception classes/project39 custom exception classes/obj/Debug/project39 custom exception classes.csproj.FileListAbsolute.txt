@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project39 custom exception classes\project39 custom exception classes\obj\Debug\project39 custom exception classes.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project39 custom exception classes\project39 custom exception classes\bin\Debug\project39 custom exception classes.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project39 custom exception classes\project39 custom exception classes\bin\Debug\project39 custom exception classes.exe
+C:\Users\Black2\Desktop\sharp develop projects\project39 custom exception classes\project39 custom exception classes\bin\Debug\project39 custom exception classes.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project39 custom exception classes\project39 custom exception classes\obj\Debug\project39 custom exception classes.exe
+C:\Users\Black2\Desktop\sharp develop projects\project39 custom exception classes\project39 custom exception classes\obj\Debug\project39 custom exception classes.pdb

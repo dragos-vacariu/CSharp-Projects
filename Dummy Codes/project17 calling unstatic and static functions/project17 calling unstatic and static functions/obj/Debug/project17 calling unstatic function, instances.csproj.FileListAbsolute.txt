@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project17 calling unstatic function, instances\project17 calling unstatic function, instances\bin\Debug\project17 calling unstatic function, instances.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project17 calling unstatic function, instances\project17 calling unstatic function, instances\bin\Debug\project17 calling unstatic function, instances.exe
+C:\Users\Black2\Desktop\sharp develop projects\project17 calling unstatic function, instances\project17 calling unstatic function, instances\bin\Debug\project17 calling unstatic function, instances.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project17 calling unstatic function, instances\project17 calling unstatic function, instances\obj\Debug\project17 calling unstatic function, instances.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project17 calling unstatic function, instances\project17 calling unstatic function, instances\obj\Debug\project17 calling unstatic function, instances.exe
+C:\Users\Black2\Desktop\sharp develop projects\project17 calling unstatic function, instances\project17 calling unstatic function, instances\obj\Debug\project17 calling unstatic function, instances.pdb

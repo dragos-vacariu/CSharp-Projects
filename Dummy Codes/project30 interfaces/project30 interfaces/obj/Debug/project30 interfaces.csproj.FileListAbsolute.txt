@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project30 interfaces\project30 interfaces\obj\Debug\project30 interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project30 interfaces\project30 interfaces\bin\Debug\project30 interfaces.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project30 interfaces\project30 interfaces\bin\Debug\project30 interfaces.exe
+C:\Users\Black2\Desktop\sharp develop projects\project30 interfaces\project30 interfaces\bin\Debug\project30 interfaces.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project30 interfaces\project30 interfaces\obj\Debug\project30 interfaces.exe
+C:\Users\Black2\Desktop\sharp develop projects\project30 interfaces\project30 interfaces\obj\Debug\project30 interfaces.pdb

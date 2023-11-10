@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project43 reflection\project43 reflection\obj\Debug\project43 reflection.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project43 reflection\project43 reflection\bin\Debug\project43 reflection.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project43 reflection\project43 reflection\bin\Debug\project43 reflection.exe
+C:\Users\Black2\Desktop\sharp develop projects\project43 reflection\project43 reflection\bin\Debug\project43 reflection.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project43 reflection\project43 reflection\obj\Debug\project43 reflection.exe
+C:\Users\Black2\Desktop\sharp develop projects\project43 reflection\project43 reflection\obj\Debug\project43 reflection.pdb

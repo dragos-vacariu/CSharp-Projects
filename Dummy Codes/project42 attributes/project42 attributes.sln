@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project42 attributes", "project42 attributes\project42 attributes.csproj", "{EABFF4B3-0157-45B9-9A25-4E18B688EBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EABFF4B3-0157-45B9-9A25-4E18B688EBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABFF4B3-0157-45B9-9A25-4E18B688EBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABFF4B3-0157-45B9-9A25-4E18B688EBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABFF4B3-0157-45B9-9A25-4E18B688EBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Black2\Desktop\sharp develop projects\project12 new types, null coalescing operator\project12 new types, null coalescing operator\bin\Debug\project12 nullable, non-nullable types, null coalescing operator.exe.config
+C:\Users\Black2\Desktop\sharp develop projects\project12 new types, null coalescing operator\project12 new types, null coalescing operator\bin\Debug\project12 nullable, non-nullable types, null coalescing operator.exe
+C:\Users\Black2\Desktop\sharp develop projects\project12 new types, null coalescing operator\project12 new types, null coalescing operator\bin\Debug\project12 nullable, non-nullable types, null coalescing operator.pdb
+C:\Users\Black2\Desktop\sharp develop projects\project12 new types, null coalescing operator\project12 new types, null coalescing operator\obj\Debug\project12 new types, null coalescing operator.csprojResolveAssemblyReference.cache
+C:\Users\Black2\Desktop\sharp develop projects\project12 new types, null coalescing operator\project12 new types, null coalescing operator\obj\Debug\project12 nullable, non-nullable types, null coalescing operator.exe
+C:\Users\Black2\Desktop\sharp develop projects\project12 new types, null coalescing operator\project12 new types, null coalescing operator\obj\Debug\project12 nullable, non-nullable types, null coalescing operator.pdb

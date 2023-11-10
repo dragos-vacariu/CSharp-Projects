@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project29 all about structures", "project29 all about structures\project29 all about structures.csproj", "{23CA72EE-C745-481D-87BA-04EADADBCA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structure class", "structure class\structure class.csproj", "{046DD14E-9645-492D-BEB6-930D10F80C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CA72EE-C745-481D-87BA-04EADADBCA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CA72EE-C745-481D-87BA-04EADADBCA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CA72EE-C745-481D-87BA-04EADADBCA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CA72EE-C745-481D-87BA-04EADADBCA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{046DD14E-9645-492D-BEB6-930D10F80C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046DD14E-9645-492D-BEB6-930D10F80C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046DD14E-9645-492D-BEB6-930D10F80C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046DD14E-9645-492D-BEB6-930D10F80C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
