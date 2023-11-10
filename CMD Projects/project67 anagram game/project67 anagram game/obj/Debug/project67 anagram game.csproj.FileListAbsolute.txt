@@ -1,0 +1,5 @@
+D:\codes and programming\sharp develop projects c#\project67 anagram game\project67 anagram game\bin\Debug\project67 word game.exe.config
+D:\codes and programming\sharp develop projects c#\project67 anagram game\project67 anagram game\obj\Debug\project67 word game.exe
+D:\codes and programming\sharp develop projects c#\project67 anagram game\project67 anagram game\obj\Debug\project67 word game.pdb
+D:\codes and programming\sharp develop projects c#\project67 anagram game\project67 anagram game\bin\Debug\project67 word game.exe
+D:\codes and programming\sharp develop projects c#\project67 anagram game\project67 anagram game\bin\Debug\project67 word game.pdb

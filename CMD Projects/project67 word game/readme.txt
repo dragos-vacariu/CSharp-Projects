@@ -1,1 +1,0 @@
-Video available at: https://www.youtube.com/watch?v=ZCcmRRBCn8g&list=PLCma1j5Hgqtct-faQ8YIU9zQpXMgiIETA&index=20

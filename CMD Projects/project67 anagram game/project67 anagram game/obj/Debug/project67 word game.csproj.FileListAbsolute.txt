@@ -1,0 +1,5 @@
+D:\codes and programming\sharp develop projects c#\project67 word game\project67 word game\bin\Debug\project67 word game.exe.config
+D:\codes and programming\sharp develop projects c#\project67 word game\project67 word game\bin\Debug\project67 word game.exe
+D:\codes and programming\sharp develop projects c#\project67 word game\project67 word game\bin\Debug\project67 word game.pdb
+D:\codes and programming\sharp develop projects c#\project67 word game\project67 word game\obj\Debug\project67 word game.exe
+D:\codes and programming\sharp develop projects c#\project67 word game\project67 word game\obj\Debug\project67 word game.pdb
