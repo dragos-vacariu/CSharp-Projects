@@ -6,8 +6,8 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <OutputType>Exe</OutputType>
-    <RootNamespace>project59_artifficial_intelligence</RootNamespace>
-    <AssemblyName>project59 artifficial intelligence</AssemblyName>
+    <RootNamespace>project59_tictactoe ai</RootNamespace>
+    <AssemblyName>project59 tictactoe ai</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
   </PropertyGroup>
