@@ -12,4 +12,4 @@ The player earns money, when the correct answer is given and the money earned ca
 3. money multiplier - the ability to earn 2x or 3x the amount of money if the correct answer is given.
 
 Portable Download: 
-https://github.com/dragos-vacariu/Portable-Downloads/blob/main/WWBM%20Quizz%20Game.rar
+https://github.com/dragos-vacariu/Portable-Downloads/tree/main/WWBM%20Quizz%20Game
