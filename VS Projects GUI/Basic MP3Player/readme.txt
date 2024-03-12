@@ -1,3 +1,2 @@
 Presentation Videos available at: 
-
-https://www.youtube.com/watch?v=b1-CUpAouuw
+https://dragos-vacariu.github.io/CSharp-Projects/VS%20Projects%20GUI/Basic%20MP3Player/MP3Player.html
