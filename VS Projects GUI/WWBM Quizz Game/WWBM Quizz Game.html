@@ -12,35 +12,62 @@
 		<!--Local resources-->
 	</head>
 	<body>
-		<nav>
-			<a class = "outer_href" href=../../../portfolio/{{pageObject.page_navigation[0].value}}>{{pageObject.page_navigation[0].name}}</a>
-			<div class="dropdown_menu">
-				<button id = "selected_dropdown_button"  class="dropdown_button">{{pageObject.page_navigation[1].name}}</button>
-				<div class="dropdown_content">
-					<a ng-repeat="page in pageObject.page_navigation_dropdown" href=../../{{page.value}}>{{page.name}}</a>
-				</div>
-			</div>
-			<a class = "outer_href"  href=../../../portfolio/{{pageObject.page_navigation[2].value}}>{{pageObject.page_navigation[2].name}}</a>
-		</nav>
 		<header>
 			<div id="header_title">
 				<h2>{{pageObject.page_title}}</h2>
 			</div>				
 		</header>
+		<nav>
+			<table>
+				<tr>
+					<td>
+						<div>
+							<a class = "outer_href" href=../../../portfolio{{pageObject.page_navigation[0].value}}>{{pageObject.page_navigation[0].name}}</a>
+						</div>
+					</td>
+					<td id = "selected_webpage" >
+						<div class="dropdown_menu">
+							<a class="outer_href">{{pageObject.page_navigation[1].name}}</a>
+							<div class="dropdown_content">
+								<a ng-repeat="page in pageObject.page_navigation_dropdown" href=../../../{{page.value}}>{{page.name}}</a>
+							</div>
+						</div>
+					</td>
+					<td>
+						<div>
+							<a class = "outer_href"  href=../../../portfolio{{pageObject.page_navigation[2].value}}>{{pageObject.page_navigation[2].name}}</a>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</nav>
 		<div id="page_block">
 			<h2>Catalogue -> <a href=../../../{{pageObject.page_navigation_dropdown[4].value}}>{{pageObject.page_navigation_dropdown[4].name}}:</a></h2>
 			<h3>WWBM Quizz Game</h3>
 
-			<video controls autoplay muted style="width: 80%; height:80%;">
+			<video controls autoplay muted>
 			  <source src="WWBM Quizz Game.mp4" type="video/mp4">
 			  <source src="WWBM Quizz Game.ogg" type="video/ogg">
 			Your browser does not support the video tag.
 			</video>
 
 			<h4>Description:</h4>
-			<h4>No description
-			</h4>
-
+			<h4>WWBM Quizz Game is a .NET GUI Game-like applications inspired by the
+			TV Show: <code> Who wants to be a millionare </code></br></br>
+			The player has to answer correctly to general knowledge questions of various 
+			difficulty from various fields such as: Cinema, Music, Geography, Biology, Chemistry, 
+			Astronomy, Literature, Internet, Technology, History, and so on. <br><br>
+			There are about 200 questions available within the game, every question is presented with
+			4 possible answers. As the player progresses and earns money, items beoome available
+			withing the Item Shop. Among the available items are: 
+			<br><br>
+			- chances so that when player
+			doesn't answer correctly the game will allow him to continue further with different question;
+			<br><br>
+			- reduce the number of wrong answers each question have;
+			<br><br>
+			- money multipliers;
+			<br><br>
 		</div>
 		<footer>
 			<h4>{{pageObject.footer_copyright}}</h4>
